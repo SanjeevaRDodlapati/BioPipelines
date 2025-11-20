@@ -1,4 +1,4 @@
- as# 🎉 Ready to Pull on GCP Cluster!
+# 🎉 Ready to Pull on GCP Cluster!
 
 ## ✅ What Was Just Pushed
 
